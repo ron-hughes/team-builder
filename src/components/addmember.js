@@ -24,3 +24,9 @@ function AddMember() {
 }
 
 export default AddMember;
+
+{
+  names: {
+      
+  }  
+}
